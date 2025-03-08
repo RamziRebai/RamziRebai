@@ -1,10 +1,8 @@
-# Hi there, I'm Ramzi Rebai 👋
+# Hi there, I'm Ramzi Rebai 👋 🧠 Innovative, Passionate Generative AI Engineer
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </div>
-
-## 🧠 Generative AI Engineer
 
 > Building the future of AI with LangChain, LangGraph, and LlamaIndex solutions in Python & TypeScript
 
