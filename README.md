@@ -9,10 +9,11 @@
 > Building the future of AI with LangChain, LangGraph, and LlamaIndex solutions in Python & TypeScript
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/133453963?s=200&v=4" alt="LangChain" width="80" style="margin-right: 15px;"/>
-  <img src="https://pbs.twimg.com/profile_images/1742356521700614144/SfVoSNHg_400x400.jpg" alt="LangGraph" width="80" style="margin-right: 15px;"/> 
-  <img src="https://avatars.githubusercontent.com/u/107981735?s=200&v=4" alt="LlamaIndex" width="80"/>
+  <img src="https://i.ibb.co/MyMr66LP/langchain.png" alt="LangChain" width="80" style="margin-right: 15px;"/>
+  <img src="https://i.ibb.co/Gfww10BH/langgraph.png" alt="LangGraph" width="80" style="margin-right: 15px;"/> 
+  <img src="https://i.ibb.co/Jj84BWgt/llamaindex.png" alt="LlamaIndex" width="80"/>
 </div>
+
 
 [![Upwork](https://img.shields.io/badge/Hire%20Me%20on-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~019ba9454d948d8616?mp_source=share)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://multi-agent-chatbot-production.up.railway.app/portfolio)
