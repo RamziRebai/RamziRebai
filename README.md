@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </div>
 
-> Building the future of AI with LangChain, LangGraph, and LlamaIndex solutions in Python & TypeScript
+## Building the future of AI with LangChain, LangGraph, and LlamaIndex solutions in Python & TypeScript
 
 <div align="center">
   <img src="https://i.ibb.co/MyMr66LP/langchain.png" alt="LangChain" width="250" style="margin-right: 15px;"/>
