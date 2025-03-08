@@ -29,14 +29,17 @@
       <td width="33%" align="center">
         <img src="https://i.ibb.co/MyMr66LP/langchain.png" alt="LangChain" width="120"/>
         <br><strong>LangChain</strong>
+        <br><small>Orchestrating LLMs</small>
       </td>
       <td width="33%" align="center">
         <img src="https://i.ibb.co/Gfww10BH/langgraph.png" alt="LangGraph" width="120"/>
         <br><strong>LangGraph</strong>
+        <br><small>Building agent workflows</small>
       </td>
       <td width="33%" align="center">
         <img src="https://i.ibb.co/Jj84BWgt/llamaindex.png" alt="LlamaIndex" width="120"/>
         <br><strong>LlamaIndex</strong>
+        <br><small>Data framework for LLMs</small>
       </td>
     </tr>
   </table>
@@ -60,30 +63,108 @@
 
 <br>
 
-## 🔧 Tech Stack
+## 🛠️ Skills & Technologies
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-</div>
+<details open>
+  <summary><h3>Core AI Expertise</h3></summary>
+  <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6B6B?style=for-the-badge" alt="Prompt Engineering" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Fine--tuning%20LLMs-5D8BF4?style=for-the-badge" alt="Fine-tuning LLMs" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Multimodal%20LLMs-9775FA?style=for-the-badge" alt="Multimodal LLMs" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/RAG%20Systems-22C55E?style=for-the-badge" alt="RAG Systems" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Multi--Agent%20Systems-F59E0B?style=for-the-badge" alt="Multi-Agent Systems" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/LLM%20Evaluation-EC4899?style=for-the-badge" alt="LLM Evaluation" />
+      </td>
+    </tr>
+  </table>
+</details>
 
-<br>
+<details open>
+  <summary><h3>Programming & Development</h3></summary>
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+    <div>
+      <h4>Programming Languages</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <small>(Primary)</small><br>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      </p>
+    </div>
+    <div>
+      <h4>Backend Technologies</h4>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /><br>
+        <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSocket" /><br>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /><br>
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO" />
+      </p>
+    </div>
+  </div>
+  
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+    <div>
+      <h4>Frontend Development</h4>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /><br>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+      </p>
+    </div>
+    <div>
+      <h4>Cloud & Deployment</h4>
+      <p>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /><br>
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+      </p>
+    </div>
+  </div>
+  
+  <div>
+    <h4>Tools & Platforms</h4>
+    <p>
+      <img src="https://img.shields.io/badge/Weaviate-FF5702?style=for-the-badge&logo=weaviate&logoColor=white" alt="Weaviate" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    </p>
+  </div>
+</details>
 
-<table>
-  <tr>
-    <td><strong>AI Frameworks:</strong></td>
-    <td>
-      ✅ LangChain (Python & TypeScript)<br>
-      ✅ LangGraph<br>
-      ✅ LlamaIndex<br>
-      ✅ Fine-tuning LLMs<br>
-      ✅ Multi-agent Systems<br>
-      ✅ Multimodal AI
-    </td>
-  </tr>
-</table>
+<details>
+  <summary><h3>Soft Skills</h3></summary>
+  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; text-align: center;">
+    <div style="padding: 10px; background-color: #f8f9fa; border-radius: 8px;">
+      <h4>🚀 Leadership</h4>
+    </div>
+    <div style="padding: 10px; background-color: #f8f9fa; border-radius: 8px;">
+      <h4>⏱️ Responsibility</h4>
+    </div>
+    <div style="padding: 10px; background-color: #f8f9fa; border-radius: 8px;">
+      <h4>👥 Team Collaboration</h4>
+    </div>
+    <div style="padding: 10px; background-color: #f8f9fa; border-radius: 8px;">
+      <h4>🔄 Adaptability</h4>
+    </div>
+    <div style="padding: 10px; background-color: #f8f9fa; border-radius: 8px;">
+      <h4>🧩 Problem Solving</h4>
+    </div>
+    <div style="padding: 10px; background-color: #f8f9fa; border-radius: 8px;">
+      <h4>📚 Continuous Learning</h4>
+    </div>
+  </div>
+</details>
 
 <br>
 
@@ -102,7 +183,7 @@
         </ul>
       </td>
       <td width="40%" align="center">
-        <img src="https://i.ibb.co/nMPbfgcq/langgraph.png" alt="Multi-agent System" width="100%" />
+        <img src="https://miro.medium.com/v2/resize:fit:1400/1*ra8Phl0cAZjcBMBXRIB7EA.png" alt="Multi-agent System" width="100%" />
       </td>
     </tr>
   </table>
