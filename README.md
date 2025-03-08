@@ -138,6 +138,7 @@
     <p>
       <img src="https://img.shields.io/badge/Weaviate-FF5702?style=for-the-badge&logo=weaviate&logoColor=white" alt="Weaviate" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/postgresql-0000ff?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     </p>
   </div>
 </details>
