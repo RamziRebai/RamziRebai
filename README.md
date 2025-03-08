@@ -179,7 +179,7 @@
           <li>Multi-agent system built with LangGraph Python</li>
           <li>Personalized outfit recommendations</li>
           <li>Real-time, actionable business analytics</li>
-          <li><a href="https://multi-agent-chatbot-production.up.railway.app">Live Demo</a></li>
+          <li><a href="https://multi-agent-chatbot-production.up.railway.app" color="red">Live Demo</a></li>
         </ul>
       </td>
       <td width="40%" align="center">
