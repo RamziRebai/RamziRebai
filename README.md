@@ -9,9 +9,9 @@
 > Building the future of AI with LangChain, LangGraph, and LlamaIndex solutions in Python & TypeScript
 
 <div align="center">
-  <img src="https://i.ibb.co/MyMr66LP/langchain.png" alt="LangChain" width="150" style="margin-right: 15px;"/>
-  <img src="https://i.ibb.co/Gfww10BH/langgraph.png" alt="LangGraph" width="150" style="margin-right: 15px;"/> 
-  <img src="https://i.ibb.co/Jj84BWgt/llamaindex.png" alt="LlamaIndex" width="150"/>
+  <img src="https://i.ibb.co/MyMr66LP/langchain.png" alt="LangChain" width="250" style="margin-right: 15px;"/>
+  <img src="https://i.ibb.co/Gfww10BH/langgraph.png" alt="LangGraph" width="250" style="margin-right: 15px;"/> 
+  <img src="https://i.ibb.co/Jj84BWgt/llamaindex.png" alt="LlamaIndex" width="250"/>
 </div>
 
 
