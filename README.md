@@ -102,7 +102,7 @@
         </ul>
       </td>
       <td width="40%" align="center">
-        <img src="[https://i.ibb.co/nMPbfgcq/langgraph.png](https://i.ibb.co/nMPbfgcq/langgraph.png)" alt="Multi-agent System" width="100%" />
+        <img src="https://i.ibb.co/nMPbfgcq/langgraph.png" alt="Multi-agent System" width="100%" />
       </td>
     </tr>
   </table>
