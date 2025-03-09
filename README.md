@@ -46,14 +46,6 @@
 </div>
 
 ---
-
-<details open>
-  <summary><h3>👨‍💻 About Me</h3></summary>
-  <p>
-    I'm a Computer Science Engineer (ESPRIT graduate) passionate about creating innovative AI solutions that solve real-world challenges. My expertise lies in developing intelligent systems using cutting-edge frameworks and technologies, with a focus on generative AI applications that deliver tangible business value.
-  </p>
-</details>
-
 <br>
 
 <div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; margin: 20px 0;">
@@ -62,6 +54,12 @@
 </div>
 
 <br>
+<details open>
+  <summary><h3>👨‍💻 About Me</h3></summary>
+  <p>
+    I'm a Computer Science Engineer (ESPRIT graduate) passionate about creating innovative AI solutions that solve real-world challenges. My expertise lies in developing intelligent systems using cutting-edge frameworks and technologies, with a focus on generative AI applications that deliver tangible business value.
+  </p>
+</details>
 
 ## 🛠️ Skills & Technologies
 
