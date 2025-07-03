@@ -21,7 +21,7 @@
   </p>
 </div>
 
-## 💡 My Expertise
+## 💡 My Expertise:
 
 <div align="center">
   <table border="0">
