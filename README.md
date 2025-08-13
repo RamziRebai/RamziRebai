@@ -220,6 +220,20 @@ Audio State Management ↔ Redis Memory ↔ Vector Database
 ```
 </div>
 
+### 🛍️ **AI Fashion Assistant & Business Analytics Platform**
+<div class="project-card" style="border-left: 4px solid #22C55E; padding: 15px; background: #f8f9fa; margin: 10px 0; border-radius: 8px;">
+
+**Multi-agent system built with LangGraph Python**
+- Personalized outfit recommendations through intelligent agent coordination
+- Real-time, actionable business analytics with multi-dimensional insights  
+- **[🔗 Live Demo](https://multi-agent-chatbot-production.up.railway.app)**
+
+<div align="center">
+  <img src="https://i.ibb.co/nMPbfgcq/langgraph.png" alt="Multi-agent System" width="300" />
+</div>
+</div>
+
+
 ### 🌟 **Enterprise-Grade Multi-Agent Customer Support System**
 <div class="project-card" style="border-left: 4px solid #FF6B6B; padding: 15px; background: #f8f9fa; margin: 10px 0; border-radius: 8px;">
 
@@ -245,18 +259,6 @@ Database: PostgreSQL (state persistence + conversation tracking)
 ```
 </div>
 
-### 🛍️ **AI Fashion Assistant & Business Analytics Platform**
-<div class="project-card" style="border-left: 4px solid #22C55E; padding: 15px; background: #f8f9fa; margin: 10px 0; border-radius: 8px;">
-
-**Multi-agent system built with LangGraph Python**
-- Personalized outfit recommendations through intelligent agent coordination
-- Real-time, actionable business analytics with multi-dimensional insights  
-- **[🔗 Live Demo](https://multi-agent-chatbot-production.up.railway.app)**
-
-<div align="center">
-  <img src="https://i.ibb.co/nMPbfgcq/langgraph.png" alt="Multi-agent System" width="300" />
-</div>
-</div>
 
 <br>
 
