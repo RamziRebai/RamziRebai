@@ -196,6 +196,30 @@
 
 ## 🚀 Featured Projects
 
+### 🎙️ **Real-time Voice-to-Voice Agentic RAG System**
+<div class="project-card" style="border-left: 4px solid #9775FA; padding: 15px; background: #f8f9fa; margin: 10px 0; border-radius: 8px;">
+
+**🎯 Problem Statement:** Created a real-time conversational AI that allows natural voice interaction with document collections, requiring seamless STT-LLM-TTS orchestration with memory persistence.
+
+**🧠 Agent Design:**
+- **Framework:** LlamaIndex Python workflows for event-driven agent coordination
+- **Communication:** LiveKit for real-time audio processing and agent-to-user interaction
+- **Memory Architecture:** Redis-based conversation persistence with context injection
+- **RAG Implementation:** Document ingestion → vector indexing → contextual retrieval → response generation
+
+**🚀 Technical Innovation:**
+- **Real-time Orchestration:** LiveKit agents handling continuous audio streams with sub-second latency
+- **Event-driven Workflows:** LlamaIndex event architecture for asynchronous document processing
+- **Context Management:** Redis-powered memory system maintaining conversation coherence across sessions
+- **Multi-turn Reasoning:** Complex query decomposition with contextual document retrieval
+
+**⚙️ Integration Pipeline:**
+```
+STT → Intent Processing → Document Retrieval → LLM → TTS
+Audio State Management ↔ Redis Memory ↔ Vector Database
+```
+</div>
+
 ### 🌟 **Enterprise-Grade Multi-Agent Customer Support System**
 <div class="project-card" style="border-left: 4px solid #FF6B6B; padding: 15px; background: #f8f9fa; margin: 10px 0; border-radius: 8px;">
 
@@ -218,30 +242,6 @@
 Frontend: React + Material-UI + WebSocket
 Backend: LangGraph → OpenAI API → SendGrid
 Database: PostgreSQL (state persistence + conversation tracking)
-```
-</div>
-
-### 🎙️ **Real-time Voice-to-Voice Agentic RAG System**
-<div class="project-card" style="border-left: 4px solid #9775FA; padding: 15px; background: #f8f9fa; margin: 10px 0; border-radius: 8px;">
-
-**🎯 Problem Statement:** Created a real-time conversational AI that allows natural voice interaction with document collections, requiring seamless STT-LLM-TTS orchestration with memory persistence.
-
-**🧠 Agent Design:**
-- **Framework:** LlamaIndex Python workflows for event-driven agent coordination
-- **Communication:** LiveKit for real-time audio processing and agent-to-user interaction
-- **Memory Architecture:** Redis-based conversation persistence with context injection
-- **RAG Implementation:** Document ingestion → vector indexing → contextual retrieval → response generation
-
-**🚀 Technical Innovation:**
-- **Real-time Orchestration:** LiveKit agents handling continuous audio streams with sub-second latency
-- **Event-driven Workflows:** LlamaIndex event architecture for asynchronous document processing
-- **Context Management:** Redis-powered memory system maintaining conversation coherence across sessions
-- **Multi-turn Reasoning:** Complex query decomposition with contextual document retrieval
-
-**⚙️ Integration Pipeline:**
-```
-STT → Intent Processing → Document Retrieval → LLM → TTS
-Audio State Management ↔ Redis Memory ↔ Vector Database
 ```
 </div>
 
